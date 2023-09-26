@@ -1,0 +1,6 @@
+bs4
+selenium
+time
+pyairtable
+streamit_tags
+os
