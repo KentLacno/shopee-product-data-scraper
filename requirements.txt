@@ -1,5 +1,5 @@
 bs4
-selenium
+selenium==4.11.2
 time
 pyairtable
 streamit_tags
